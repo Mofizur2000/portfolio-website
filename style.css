@@ -62,3 +62,8 @@ section{
     background-repeat: no-repeat;
     background-position: left;
 }
+footer{
+    font-size: 14px;
+    color: dimgray;
+    text-align: center;
+}
